@@ -1,0 +1,12 @@
+C:\Users\fernandos\source\repos\Mouse3D\obj\Debug\Mouse3D.csprojAssemblyReference.cache
+C:\Users\fernandos\source\repos\Mouse3D\obj\Debug\Mouse3D.Form1.resources
+C:\Users\fernandos\source\repos\Mouse3D\obj\Debug\Mouse3D.Properties.Resources.resources
+C:\Users\fernandos\source\repos\Mouse3D\obj\Debug\Mouse3D.csproj.GenerateResource.cache
+C:\Users\fernandos\source\repos\Mouse3D\bin\Debug\Mouse3D.exe.config
+C:\Users\fernandos\source\repos\Mouse3D\bin\Debug\Mouse3D.exe
+C:\Users\fernandos\source\repos\Mouse3D\bin\Debug\Mouse3D.pdb
+C:\Users\fernandos\source\repos\Mouse3D\bin\Debug\MQTTnet.dll
+C:\Users\fernandos\source\repos\Mouse3D\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\fernandos\source\repos\Mouse3D\obj\Debug\Mouse3D.csproj.CopyComplete
+C:\Users\fernandos\source\repos\Mouse3D\obj\Debug\Mouse3D.exe
+C:\Users\fernandos\source\repos\Mouse3D\obj\Debug\Mouse3D.pdb
